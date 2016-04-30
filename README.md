@@ -1,6 +1,6 @@
 # Aurora syntax theme
 
-A syntax theme for [Atom](atom.io) based on [Aurora](https://en.wikipedia.org/wiki/Aurora) colors.
+A syntax theme for [Atom](https://atom.io) based on [Aurora](https://en.wikipedia.org/wiki/Aurora) colors.
 
 https://atom.io/themes/aurora-atom-syntax
 
